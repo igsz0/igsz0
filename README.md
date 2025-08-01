@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+👋 Hi, I'm Isaias.
+I'm a student who enjoys building useful things (and occasionally useless ones for the fun of it).
+I tinker with cybersecurity, automation, and game development when I’m not pretending to be productive.
+Still learning. Still figuring things out.
 
 
 <!--
